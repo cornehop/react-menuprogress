@@ -12,4 +12,4 @@ To start the project simply run:
 
 ### Little demo:
 
-![alt text](https://https://github.com/cornehop/react-menuprogress/tree/master/src/content/recording.gif "Demo")
+![alt text](https://github.com/cornehop/react-menuprogress/blob/master/src/content/recording.gif "Demo")
