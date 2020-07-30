@@ -1,0 +1,29 @@
+.App-body {
+  .body-menu {
+    width: 30vmin;
+    padding: 10px;
+    overflow-y: scroll;
+    height: 85vh;
+  }
+
+  .menu-button {
+    cursor: pointer;
+    width: 100%;
+    padding: 10px;
+    background-color: #c79cdb;
+    color: #430262;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 5px;
+
+    &:hover{
+      opacity: 0.5;
+    }
+
+    &.selected {
+      background-color: #430262;
+      border: 1px solid #c79cdb;
+      color: #ffffff;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.body-content {
+  padding: 10px;
+  overflow-y: scroll;
+  height: 85vh;
+
+  h1 {
+    color: #430262;
+    padding-bottom: 5px;
+    border-top: 2px solid #FFB7B2;
+    border-bottom: 2px solid #FFB7B2;
+  }
+
+  .story {
+    padding: 10px;
+    min-height: 750px;
+  }
+}
