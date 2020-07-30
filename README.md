@@ -8,4 +8,8 @@ Most of the solutions I found online were using component references to do this,
 
 To start the project simply run:
 
-### `npm start`
+`npm start`
+
+### Little demo:
+
+![alt text](https://https://github.com/cornehop/react-menuprogress/tree/master/src/content/recording.gif "Demo")
